@@ -3,7 +3,7 @@ name: Update Changelog
 on:
   push:
     tags:
-      - *
+      - '*'
 
 jobs:
   changelog:
