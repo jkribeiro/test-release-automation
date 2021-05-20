@@ -1,10 +1,22 @@
 # Changelog
 
+## [1.6.0](https://github.com/jkribeiro/test-release-automation/tree/1.6.0) (2021-05-20)
+
+**Merged pull requests:**
+
+- Testing [\#7](https://github.com/jkribeiro/test-release-automation/pull/7)
+
+## [1.5.0](https://github.com/jkribeiro/test-release-automation/tree/1.5.0) (2021-05-20)
+
+**Merged pull requests:**
+
+- More changes [\#6](https://github.com/jkribeiro/test-release-automation/pull/6)
+
 ## [1.4.0](https://github.com/jkribeiro/test-release-automation/tree/1.4.0) (2021-05-20)
 
-## [1.1.0](https://github.com/jkribeiro/test-release-automation/tree/1.1.0) (2021-05-20)
-
 ## [1.3.0](https://github.com/jkribeiro/test-release-automation/tree/1.3.0) (2021-05-20)
+
+## [1.1.0](https://github.com/jkribeiro/test-release-automation/tree/1.1.0) (2021-05-20)
 
 **Merged pull requests:**
 
