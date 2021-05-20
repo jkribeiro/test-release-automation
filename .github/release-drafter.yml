@@ -1,0 +1,16 @@
+categories:
+  - title: "🚀 Features and Enhancements"
+    labels:
+      - "feature"
+      - "enhancement"
+      - "add"
+      - "adding"
+      - "added"
+  - title: "🐛 Bug Fixes"
+    labels:
+      - "fix"
+      - "bugfix"
+      - "bug"
+template: |
+  ## What’s Changed
+  $CHANGES
