@@ -22,3 +22,4 @@ Some test text.
 More changes.
 Some test text.
 More changes.
+Test.
