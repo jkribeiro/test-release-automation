@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.0](https://github.com/jkribeiro/test-release-automation/tree/1.7.0) (2021-05-24)
+
+**Merged pull requests:**
+
+- Update test.txt [\#8](https://github.com/jkribeiro/test-release-automation/pull/8)
+
 ## [1.6.0](https://github.com/jkribeiro/test-release-automation/tree/1.6.0) (2021-05-20)
 
 **Merged pull requests:**
