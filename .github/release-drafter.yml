@@ -4,11 +4,11 @@ categories:
   - title: "🚀 Features and Enhancements"
     labels:
       - "feature"
-
   - title: "🐛 Bug Fixes"
     labels:
       - "bug"
-
+version-resolver:
+  default: minor
 template: |
   ## What’s Changed
   $CHANGES
