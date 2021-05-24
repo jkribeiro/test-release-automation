@@ -1,10 +1,16 @@
 # Changelog
 
+## [1.8.0](https://github.com/jkribeiro/test-release-automation/tree/1.8.0) (2021-05-24)
+
+**Merged pull requests:**
+
+- Dev [\#12](https://github.com/jkribeiro/test-release-automation/pull/12)
+- Update release-drafter.yml [\#11](https://github.com/jkribeiro/test-release-automation/pull/11)
+
 ## [1.7.1](https://github.com/jkribeiro/test-release-automation/tree/1.7.1) (2021-05-24)
 
 **Merged pull requests:**
 
-- Dev in to 1.x [\#10](https://github.com/jkribeiro/test-release-automation/pull/10)
 - Update test.txt [\#9](https://github.com/jkribeiro/test-release-automation/pull/9)
 
 ## [1.7.0](https://github.com/jkribeiro/test-release-automation/tree/1.7.0) (2021-05-24)
@@ -33,6 +39,7 @@
 
 **Merged pull requests:**
 
+- Dev in to 1.x [\#10](https://github.com/jkribeiro/test-release-automation/pull/10)
 - Updated CHANGELOG workflow [\#5](https://github.com/jkribeiro/test-release-automation/pull/5)
 - Added update changelog workflow [\#4](https://github.com/jkribeiro/test-release-automation/pull/4)
 - More changes [\#3](https://github.com/jkribeiro/test-release-automation/pull/3)
